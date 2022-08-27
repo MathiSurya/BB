@@ -1,4 +1,5 @@
-Response/Status Code Manipulation.
-Brute force otp.
-Otp doesn't expire after usage.
-Request 2 tokens from account A and V. Use the A's token in V's account.
+1. Response/Status Code Manipulation.
+2. Brute force otp.
+3. Otp doesn't expire after usage.
+4. Request 2 tokens from account A and V. Use the A's token in V's account.
+5. Try to go directly to the dashboard URL without solving the 2FA. If not success then try adding the referral header to the 2FA page url while going to dashboard.
